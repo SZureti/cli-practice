@@ -37,7 +37,7 @@ In VSCode click on terminal in the top bar. In the drop down menu, click New Ter
     Type 'touch' into the terminal.
 
 * How can you destroy a directory or file?
-    Type 'rmdir' into the terminal.
+    Type 'rm' into the terminal.
 
 * How can you rename a directory or file?
     Type 'mv' into the terminal.
