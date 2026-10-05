@@ -25,22 +25,22 @@ In VSCode click on terminal in the top bar. In the drop down menu, click New Ter
 
 
 * How can you display the name of the directory you are currently in?
-    Type <pwd> into the terminal.
+    Type 'pwd' into the terminal.
 
 * How can you display the contents of the directory you are currently in?
-    Type <ls> into the terminal.
+    Type 'ls' into the terminal.
 
 * How can you create a new directory?
-    Type <mkdir> into the terminal.
+    Type 'mkdir' into the terminal.
 
 * How can you create a new file?
-    Type <touch> into the terminal.
+    Type 'touch' into the terminal.
 
 * How can you destroy a directory or file?
-    Type <rm> into the terminal.
+    Type 'rm' into the terminal.
 
 * How can you rename a directory or file?
-    Type <rmdir> into the terminal.
+    Type 'rmdir' into the terminal.
 
 ## Assignment:
 
