@@ -6,26 +6,41 @@
 
 * What is the command line?
 
+The command line is a text based interface that allow interaction with the computer's operative system by typing command directly into the terminal,shell, or console. 
+
 * How do you open it on your computer?
 
+On a mac you can press  command + space bar and type 'terminal'. It should find it. Click to open the terminal. 
+In VSCode click on terminal in the top bar. In the drop down menu, click New Terminal. 
+
 * How can you navigate into a particular file directory?
-    - Where will `cd .` navigate you to?
+    - Where will `cd .` navigate you to? 
+        Keeps you in your current directory.
     - Where will `cd ..` navigate you to?
+        Navigates you one level up to the parent directory.
     - Where will `cd ~` navigate you to?
+        Navigates you to your home directory.
     - Where will `cd /` navigate you to?
+        Navigates you to the root directory.
 
 
 * How can you display the name of the directory you are currently in?
+    Type <pwd> into the terminal.
 
 * How can you display the contents of the directory you are currently in?
+    Type <ls> into the terminal.
 
 * How can you create a new directory?
+    Type <mkdir> into the terminal.
 
 * How can you create a new file?
+    Type <touch> into the terminal.
 
 * How can you destroy a directory or file?
+    Type <rm> into the terminal.
 
 * How can you rename a directory or file?
+    Type <rmdir> into the terminal.
 
 ## Assignment:
 
